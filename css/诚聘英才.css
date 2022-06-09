@@ -1,0 +1,119 @@
+.content7_1 {
+  height: 300px;
+  background: url(../img/l-banner.jpg) no-repeat center;
+}
+.content7_2 .move7_1 {
+  position: relative;
+  width: 1100px;
+  height: 1px;
+  margin: 45px auto;
+  background-color: #cccccc;
+}
+.content7_2 .move7_1 a {
+  right: 0px;
+  top: -20px;
+  position: absolute;
+  text-decoration: none;
+  font-size: 12px;
+  color: #333;
+}
+.content7_2 .move7_1 a:hover {
+  color: #00c2de;
+}
+.content7_2 .move7_1 .demo7_1 {
+  position: absolute;
+  top: -24px;
+  left: 50%;
+  width: 120px;
+  padding: 8px 14px;
+  margin-left: -72px;
+  font-size: 28px;
+  color: #333;
+  font-weight: 600;
+  text-align: center;
+  background-color: #fff;
+}
+.content7_3 {
+  height: 400px;
+  width: 1280px;
+  margin: 0 auto;
+}
+.content7_3 ul {
+  list-style: none;
+}
+.content7_3 ul li {
+  width: 558px;
+  float: left;
+  height: 152px;
+  padding: 0 10px;
+  margin: 20px 15px 10px 15px;
+  border: 2px solid #efefef;
+  border-radius: 150px;
+  position: relative;
+  cursor: pointer;
+  background-color: #efefef;
+}
+.content7_3 ul li:hover {
+  border-color: gray;
+}
+.content7_3 ul li .box_y {
+  float: left;
+  width: 408px;
+}
+.content7_3 ul li .box_y span {
+  font-weight: 600;
+  font-size: 16px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: #000;
+  display: block;
+}
+.content7_3 ul li .box_y p {
+  font-size: 14px;
+  color: gray;
+}
+.content7_3 ul li .box_z {
+  float: left;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+.content7_3 ul li .box_z img {
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+}
+.content7_4 {
+  height: 40px;
+  margin-bottom: 40px;
+}
+.content7_4 .move7_1 {
+  position: relative;
+  width: 1100px;
+  height: 1px;
+  margin: 45px auto;
+  background-color: #cccccc;
+}
+.content7_4 .move7_1 a {
+  right: 0px;
+  top: -20px;
+  position: absolute;
+  text-decoration: none;
+  font-size: 12px;
+  color: #333;
+}
+.content7_4 .move7_1 a:hover {
+  color: #00c2de;
+}
+.content7_4 .move7_1 .demo7_1 {
+  position: absolute;
+  top: -24px;
+  left: 50%;
+  width: 120px;
+  padding: 8px 14px;
+  margin-left: -72px;
+  font-size: 28px;
+  color: #333;
+  font-weight: 600;
+  text-align: center;
+  background-color: #fff;
+}

@@ -1,0 +1,122 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.landi {
+  color: #3c79af;
+  border-bottom: 3px solid #3c79af;
+  font-weight: 600;
+}
+.cl {
+  clear: both;
+}
+.head .inner {
+  width: 1200px;
+  height: 70px;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+.head .tupian {
+  float: left;
+}
+.head ul {
+  float: right;
+  list-style: none;
+}
+.head ul li {
+  height: 67px;
+  float: left;
+}
+.head ul li a {
+  padding-left: 10px;
+  padding-right: 10px;
+  display: block;
+  margin-left: 10px;
+  margin-right: 10px;
+  height: 67px;
+  line-height: 67px;
+  text-align: center;
+  font-size: 16px;
+  font-weight: 500;
+  text-decoration: none;
+  color: #6e6e6e;
+}
+.head ul li a:hover {
+  font-weight: 600;
+  color: #3c8ac9;
+  border-bottom: 3px solid #3c8ac9;
+}
+.foot {
+  background-color: #efefef;
+  height: 200px;
+  border-top: 4px solid #e7e1e1;
+  border-bottom: 2px solid #e7e1e1;
+}
+.foot .inner {
+  width: 1200px;
+  margin: 0 auto;
+}
+.foot .inner ul {
+  float: left;
+  list-style: none;
+  margin-left: 190px;
+  margin-top: 30px;
+}
+.foot .inner ul li {
+  line-height: 50px;
+}
+.foot .inner ul li a {
+  text-decoration: none;
+  color: gray;
+}
+.foot .inner ul li a:hover {
+  color: #3d7ab7;
+}
+.foot .inner ul h3 {
+  color: #3c8ac9;
+}
+.foot .inner .ul {
+  float: left;
+  list-style: none;
+  padding-top: 30px;
+  margin: 0;
+}
+.foot1 {
+  background-color: #efefef;
+  height: 50px;
+  border-top: 2px solid #e7e1e1;
+  border-bottom: 2px solid #e7e1e1;
+}
+.foot1 .inner {
+  width: 1200px;
+  height: 50px;
+  margin: 0 auto;
+}
+.foot1 .inner p {
+  text-align: center;
+  height: 50px;
+  line-height: 50px;
+  font-size: 13px;
+  color: gray;
+}
+.foot2 {
+  background-color: #efefef;
+  height: 50px;
+  border-top: 2px solid #e7e1e1;
+  border-bottom: 2px solid #e7e1e1;
+}
+.foot2 .inner {
+  width: 1200px;
+  height: 50px;
+  margin: 0 auto;
+}
+.foot2 .inner p {
+  text-align: center;
+  height: 50px;
+  line-height: 50px;
+  font-size: 13px;
+  color: gray;
+}
+.foot2 .inner p a {
+  color: black;
+}

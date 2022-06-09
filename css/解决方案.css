@@ -1,0 +1,100 @@
+.content3_1 {
+  width: 1600px;
+  height: 300px;
+  margin: 0 auto;
+  background: url(../img/aa1.jpg) no-repeat center;
+}
+.content3_1 .move3_1 {
+  width: 1300px;
+  padding-top: 45px;
+  margin: 0 auto;
+  color: #fff;
+}
+.content3_1 .move3_1 .demo_1 {
+  display: block;
+  font-weight: 500;
+  font-size: 40px;
+}
+.content3_1 .move3_1 .demo_2 {
+  display: block;
+  font-weight: 500;
+  font-size: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.content3_1 .move3_1 p {
+  font-size: 16px;
+  line-height: 28px;
+  width: 648px;
+  height: 100px;
+}
+.content3_2 .move3_1 {
+  position: relative;
+  width: 1100px;
+  height: 1px;
+  margin: 45px auto;
+  background-color: #cccccc;
+}
+.content3_2 .move3_1 .demo3_1 {
+  position: absolute;
+  top: -24px;
+  left: 50%;
+  width: 120px;
+  padding: 8px 14px;
+  margin-left: -72px;
+  font-size: 28px;
+  color: #333;
+  font-weight: 600;
+  text-align: center;
+  background-color: #fff;
+}
+.content3_3 {
+  height: 660px;
+}
+.content3_3 ul {
+  list-style: none;
+}
+.content3_3 ul li {
+  float: left;
+  width: 368px;
+  height: auto;
+  margin: 15px 15px;
+  border: 1px solid #d8d8d8;
+  cursor: pointer;
+}
+.content3_3 ul li img {
+  width: 368px;
+  height: 140px;
+}
+.content3_3 ul li:hover {
+  border: 1px solid gray;
+}
+.content3_3 ul li span {
+  display: block;
+  font-size: 16px;
+  padding: 12px 0 12px 0;
+  font-weight: 600;
+  text-align: center;
+}
+.content3_3 ul li p {
+  height: 34px;
+  overflow: hidden;
+  margin: 0 0 20px 0;
+  font-size: 12px;
+  color: #666;
+  line-height: 18px;
+  padding: 0 32px;
+}
+.content3_3 ul li a {
+  display: block;
+  width: 128px;
+  height: 20px;
+  text-align: center;
+  font-size: 14px;
+  padding: 10px 0;
+  margin: 0 auto;
+  text-decoration: none;
+  background-color: #00c2de;
+  color: #fff;
+  margin-bottom: 10px;
+}

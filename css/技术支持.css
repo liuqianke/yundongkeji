@@ -1,0 +1,223 @@
+.banner {
+  width: 1600px;
+  height: 300px;
+  margin: 0 auto;
+  background: url(../images/首页banner.jpg) center center;
+}
+.banner .new {
+  margin-left: 155px;
+  padding-top: 40px;
+}
+.banner .new p {
+  line-height: 40px;
+  color: white;
+}
+.banner .new .aa {
+  color: white;
+  font-weight: 500;
+  font-size: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.banner .new h1 {
+  font-weight: 500;
+  font-size: 40px;
+  color: white;
+}
+.serve {
+  width: 1200px;
+  margin: 0 auto;
+  position: relative;
+}
+.serve h1 {
+  position: absolute;
+  top: 18px;
+  left: 43%;
+  height: auto;
+  width: 160px;
+  font-size: 28px;
+  color: #333;
+  font-weight: 600;
+  text-align: center;
+  background-color: #fff;
+}
+.content {
+  width: 1200px;
+  margin: 0 auto;
+  border-top: 1px solid gray;
+  height: 180px;
+  padding-top: 80px;
+  padding-bottom: 50px;
+  margin-top: 40px;
+}
+.content .content_1 {
+  background: url(../images/l-kefu.jpg) no-repeat;
+  background-position: 350px 35px;
+  width: 460px;
+  height: 160px;
+  border: 1px solid gray;
+  margin-left: 40px;
+  float: left;
+}
+.content .content_1 .content_left {
+  width: 166px;
+  height: 160px;
+  float: left;
+}
+.content .content_1 .content_left h2 {
+  text-align: center;
+  line-height: 160px;
+  background-color: #3C79AF;
+  color: white;
+}
+.content .content_1 .content_right {
+  height: 160px;
+  float: right;
+}
+.content .content_1 .content_right p {
+  width: 210px;
+  padding-right: 70px;
+  padding-top: 40px;
+  font-size: 18px;
+  padding-bottom: 10px;
+}
+.content .content_1 .content_right span {
+  font-size: 26px;
+  padding-left: 10px;
+  margin-bottom: 10px;
+  color: #3c8ac9;
+  font-weight: 800;
+}
+.content .content_1 .content_right img {
+  position: relative;
+  top: 5px;
+}
+.content .content_2 {
+  background: url(../images/l-kefu.jpg) no-repeat;
+  background-position: 350px 35px;
+  width: 460px;
+  height: 160px;
+  border: 1px solid gray;
+  margin-left: 200px;
+  float: left;
+}
+.content .content_2 .content_left {
+  width: 166px;
+  height: 160px;
+  float: left;
+}
+.content .content_2 .content_left h2 {
+  text-align: center;
+  width: 166px;
+  height: 100px;
+  padding-top: 60px;
+  background-color: #3C79AF;
+  color: white;
+}
+.content .content_2 .content_right {
+  height: 160px;
+  float: right;
+}
+.content .content_2 .content_right p {
+  width: 210px;
+  padding-right: 70px;
+  padding-top: 40px;
+  font-size: 18px;
+  padding-bottom: 10px;
+}
+.content .content_2 .content_right span {
+  font-size: 26px;
+  padding-left: 10px;
+  margin-bottom: 10px;
+  color: #3c8ac9;
+  font-weight: 800;
+}
+.content .content_2 .content_right img {
+  position: relative;
+  top: 5px;
+}
+.serve1 {
+  width: 1200px;
+  margin: 0 auto;
+  position: relative;
+}
+.serve1 h1 {
+  position: absolute;
+  top: 40px;
+  left: 45%;
+  height: auto;
+  width: 145px;
+  font-size: 28px;
+  color: #333;
+  font-weight: 600;
+  text-align: center;
+  background-color: #f0f0f0;
+}
+.Doubts {
+  width: 1200px;
+  height: 270px;
+  margin: 0 auto;
+  padding-top: 60px;
+  background-color: #f0f0f0;
+}
+.Doubts .Doubts1 {
+  width: 1000px;
+  height: 250px;
+  margin: 0 auto;
+  border-top: 1px solid gray;
+  background-color: #f0f0f0;
+}
+.Doubts .Doubts1 input {
+  width: 800px;
+  height: 60px;
+  margin-top: 50px;
+  margin-left: 130px;
+  font-size: 18px;
+}
+.Doubts .Doubts1 p {
+  width: 330px;
+  height: 50px;
+  line-height: 50px;
+  text-align: center;
+  background-color: #3C79AF;
+  border-radius: 5px;
+  margin-top: 50px;
+  margin-left: 355px;
+}
+.Doubts .Doubts1 p a {
+  color: white;
+  text-decoration: none;
+}
+.content-o {
+  width: 1200px;
+  margin: 0 auto;
+}
+.content-o .content-1 {
+  width: 1200px;
+  padding-left: 30px;
+  height: 60px;
+  line-height: 60px;
+}
+.content-o .content-1 span {
+  margin-left: 10px;
+  color: gray;
+}
+.content-o .content-1 span a {
+  text-decoration: none;
+  color: black;
+}
+.content-o .content-2 {
+  width: 1200px;
+  margin-bottom: 40px;
+  padding-left: 30px;
+  height: 40px;
+  line-height: 40px;
+}
+.content-o .content-2 span {
+  margin-left: 10px;
+  color: gray;
+}
+.content-o .content-2 span a {
+  text-decoration: none;
+  color: black;
+}

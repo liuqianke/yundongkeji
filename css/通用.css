@@ -1,0 +1,12 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.set1200 {
+    width: 1200px;
+    margin: 0 auto;
+}
+.cl{
+    clear: both;
+}
